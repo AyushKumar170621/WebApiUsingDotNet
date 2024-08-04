@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|c:\\users\\kvbhk\\source\\repos\\webapiusingdotnet\\webapiusingdotnet\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|solutionrelative:webapiusingdotnet\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|c:\\users\\kvbhk\\source\\repos\\webapiusingdotnet\\webapiusingdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|solutionrelative:webapiusingdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|c:\\users\\kvbhk\\source\\repos\\webapiusingdotnet\\webapiusingdotnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|solutionrelative:webapiusingdotnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|c:\\users\\kvbhk\\source\\repos\\webapiusingdotnet\\webapiusingdotnet\\model\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84E49F4-A8EC-491A-B123-0B75AC726E45}|WebApiUsingDotNet\\WebApiUsingDotNet.csproj|solutionrelative:webapiusingdotnet\\model\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiUsingDotNet\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApiUsingDotNet\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:34:22.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\Model\\Pokemon.cs",
+              "RelativeDocumentMoniker": "WebApiUsingDotNet\\Model\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\Model\\Pokemon.cs",
+              "RelativeToolTip": "WebApiUsingDotNet\\Model\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:56:48.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "WebApiUsingDotNet\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "WebApiUsingDotNet\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:55:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiUsingDotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\kvbhk\\source\\repos\\WebApiUsingDotNet\\WebApiUsingDotNet\\appsettings.json",
+              "RelativeToolTip": "WebApiUsingDotNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T17:40:36.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
